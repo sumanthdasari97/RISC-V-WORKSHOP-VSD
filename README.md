@@ -18,6 +18,23 @@ setup happend in the design folder
 ![Screenshot from 2024-05-15 04-14-54](https://github.com/sumanthdasari97/RISC-V-WORKSHOP-VSD/assets/161044842/4d435aa9-f8f3-4789-8d68-60c9471cac53)
 _Sythesis Reports_
 Flop Ratio = 1613/14876 = 10.8%
-=
 ![Screenshot from 2024-05-15 04-20-49](https://github.com/sumanthdasari97/RISC-V-WORKSHOP-VSD/assets/161044842/20deeb0f-c876-49a0-8dff-5645e5aca827)
-/
+Chip_Area for module =147712.918400
+![Screenshot from 2024-05-15 04-26-15](https://github.com/sumanthdasari97/RISC-V-WORKSHOP-VSD/assets/161044842/ada3f937-9613-4633-a57e-6d96877c02ad)
+Successful_synthesis
+![Screenshot from 2024-05-15 04-31-37](https://github.com/sumanthdasari97/RISC-V-WORKSHOP-VSD/assets/161044842/17c2cdf2-0c8d-44cb-9a08-75cdcf248fe1)
+synthesized_netlist  in Results
+![Screenshot from 2024-05-15 04-37-05](https://github.com/sumanthdasari97/RISC-V-WORKSHOP-VSD/assets/161044842/1e97ee11-5482-4e47-8231-bf94c243c3ef)
+
+
+
+
+
+
+
+
+
+
+
+
+
