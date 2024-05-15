@@ -26,8 +26,8 @@ Successful_synthesis
 synthesized_netlist  in Results
 ![Screenshot from 2024-05-15 04-37-05](https://github.com/sumanthdasari97/RISC-V-WORKSHOP-VSD/assets/161044842/1e97ee11-5482-4e47-8231-bf94c243c3ef)
 Configuration tcl file for picorv32a design
+![Screenshot from 2024-05-15 05-23-27](https://github.com/sumanthdasari97/RISC-V-WORKSHOP-VSD/assets/161044842/f11aa0b7-5278-48e7-be24-716fb6bb6f0c)
 
-![Screenshot from 2024-05-15 05-23-27](https://github.com/sumanthdasari97/RISC-V-WORKSHOP-VSD/assets/161044842/75e46c5c-018c-4132-91e7-3588f413e_23b)
 
 **Running floor Plan**
   %run_floorplan
