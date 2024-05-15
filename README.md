@@ -46,6 +46,11 @@ to invoke magic gui
 Selected Cell description from console by giving command what
 ![Screenshot from 2024-05-15 07-05-05](https://github.com/sumanthdasari97/RISC-V-WORKSHOP-VSD/assets/161044842/4670ecb6-855d-4dd1-859a-2a116a5e5282)
 
+# Placement
+%run_placement 
+![Screenshot from 2024-05-15 07-26-14](https://github.com/sumanthdasari97/RISC-V-WORKSHOP-VSD/assets/161044842/2c412b8e-be94-4329-ad6c-bc27718a53c7)
+
+
 
 
 
