@@ -28,11 +28,17 @@ synthesized_netlist  in Results
 Configuration tcl file for picorv32a design
 ![Screenshot from 2024-05-15 05-23-27](https://github.com/sumanthdasari97/RISC-V-WORKSHOP-VSD/assets/161044842/f11aa0b7-5278-48e7-be24-716fb6bb6f0c)
 
-
 **Running floor Plan**
   %run_floorplan
 ![Screenshot from 2024-05-15 05-32-22](https://github.com/sumanthdasari97/RISC-V-WORKSHOP-VSD/assets/161044842/5fd886ea-fb83-43e7-806e-d2ae84b1e372)
+Insertion of Physical Cells
+![Screenshot from 2024-05-15 05-38-11](https://github.com/sumanthdasari97/RISC-V-WORKSHOP-VSD/assets/161044842/59b9a186-2d85-408f-8a99-a4ff26f6ca69)
 
+Floor_Plan.def 
+![Screenshot from 2024-05-15 05-45-52](https://github.com/sumanthdasari97/RISC-V-WORKSHOP-VSD/assets/161044842/e7bd571e-99b9-426e-96ef-f3ecceb1111a)
+
+Layout in magic
+![Screenshot from 2024-05-15 06-30-01](https://github.com/sumanthdasari97/RISC-V-WORKSHOP-VSD/assets/161044842/4d042df5-30bd-4885-bfc4-ff275d66abed)
 
 
 
