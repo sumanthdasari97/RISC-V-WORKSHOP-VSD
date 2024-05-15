@@ -50,6 +50,13 @@ Selected Cell description from console by giving command what
 %run_placement 
 ![Screenshot from 2024-05-15 07-26-14](https://github.com/sumanthdasari97/RISC-V-WORKSHOP-VSD/assets/161044842/2c412b8e-be94-4329-ad6c-bc27718a53c7)
 
+placement in magic gui 
+![Screenshot from 2024-05-15 07-29-54](https://github.com/sumanthdasari97/RISC-V-WORKSHOP-VSD/assets/161044842/4bdb2758-e911-4712-9705-a9ffa7d3f50f)
+
+zoomed pic of placement of standard cells
+![Screenshot from 2024-05-15 07-31-12](https://github.com/sumanthdasari97/RISC-V-WORKSHOP-VSD/assets/161044842/21ee9c48-c5c1-4bce-9154-2065a1959de0)
+
+
 
 
 
