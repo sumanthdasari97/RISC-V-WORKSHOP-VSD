@@ -38,7 +38,14 @@ Floor_Plan.def
 ![Screenshot from 2024-05-15 05-45-52](https://github.com/sumanthdasari97/RISC-V-WORKSHOP-VSD/assets/161044842/e7bd571e-99b9-426e-96ef-f3ecceb1111a)
 
 Layout in magic
+# to invoke magic gui 
+/Desktop/work/tools/openlane_working_dir/openlane/designs/picorv32a/runs/14-05_21-43/results/floorplan$ magic -T /home/vsduser/Desktop/work/tools/openlane_working_dir/pdks/sky130A/libs.tech/magic/sky130A.tech lef read ../../tmp/merged.lef def read picorv32a.floorplan.def &
+
 ![Screenshot from 2024-05-15 06-30-01](https://github.com/sumanthdasari97/RISC-V-WORKSHOP-VSD/assets/161044842/4d042df5-30bd-4885-bfc4-ff275d66abed)
+
+Selected Cell description from console by giving command what
+![Screenshot from 2024-05-15 07-05-05](https://github.com/sumanthdasari97/RISC-V-WORKSHOP-VSD/assets/161044842/4670ecb6-855d-4dd1-859a-2a116a5e5282)
+
 
 
 
