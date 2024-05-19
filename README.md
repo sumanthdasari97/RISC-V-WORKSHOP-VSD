@@ -56,6 +56,20 @@ placement in magic gui
 zoomed pic of placement of standard cells
 ![Screenshot from 2024-05-15 07-31-12](https://github.com/sumanthdasari97/RISC-V-WORKSHOP-VSD/assets/161044842/21ee9c48-c5c1-4bce-9154-2065a1959de0)
 
+# standarad Cell Inverter in Magic 
+![Screenshot from 2024-05-17 04-31-02](https://github.com/sumanthdasari97/RISC-V-WORKSHOP-VSD/assets/161044842/c9ce672e-c5a8-4914-910d-f0dc4fa5f99d)
+ Spice File For Std Cell
+ ![Screenshot from 2024-05-17 04-57-06](https://github.com/sumanthdasari97/RISC-V-WORKSHOP-VSD/assets/161044842/dc55bbd2-d85d-492e-9d80-6a93d825d6f0)
+
+Editing the Grid to match the Track Pitches 
+![Screenshot from 2024-05-20 04-52-26](https://github.com/sumanthdasari97/RISC-V-WORKSHOP-VSD/assets/161044842/a1c75f40-452b-4258-8ead-7fff978aa666)
+
+# Writing out the LEF file 
+![Screenshot from 2024-05-20 05-01-11](https://github.com/sumanthdasari97/RISC-V-WORKSHOP-VSD/assets/161044842/f7302f52-393b-4021-9cc0-01ed896eaf60)
+
+
+
+
 
 
 
