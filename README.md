@@ -80,6 +80,21 @@ Editing the Grid to match the Track Pitches
 ![Screenshot from 2024-05-20 05-56-49](https://github.com/sumanthdasari97/RISC-V-WORKSHOP-VSD/assets/161044842/250cd8bc-a2a1-4ff8-bad1-db7571765599)
 # Our Standard cells in the netlist 
 ![Screenshot from 2024-05-20 09-50-42](https://github.com/sumanthdasari97/RISC-V-WORKSHOP-VSD/assets/161044842/9d458513-eac0-424b-9802-ef3f76ebec03)
+adding stratergies for synthesis 
+
+![Screenshot from 2024-05-21 10-28-58](https://github.com/sumanthdasari97/RISC-V-WORKSHOP-VSD/assets/161044842/b35d87ac-3d03-450c-a436-0959e4d62cd5)
+
+Successful Floorplan
+![Screenshot from 2024-05-21 10-31-57](https://github.com/sumanthdasari97/RISC-V-WORKSHOP-VSD/assets/161044842/0a7fbed4-a775-4b0d-b300-0b653a5f8689)
+
+#our custom inverter placed inthe design
+
+![Screenshot from 2024-05-21 10-54-26](https://github.com/sumanthdasari97/RISC-V-WORKSHOP-VSD/assets/161044842/89d7af8e-84e4-4f2d-9c3d-18338ee5ddb9)
+
+![Screenshot from 2024-05-21 10-56-25](https://github.com/sumanthdasari97/RISC-V-WORKSHOP-VSD/assets/161044842/17f93ea8-b3c1-4f30-9486-69c1b9702884)
+
+
+
 
 
 
