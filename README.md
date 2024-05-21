@@ -60,12 +60,29 @@ zoomed pic of placement of standard cells
 ![Screenshot from 2024-05-17 04-31-02](https://github.com/sumanthdasari97/RISC-V-WORKSHOP-VSD/assets/161044842/c9ce672e-c5a8-4914-910d-f0dc4fa5f99d)
  Spice File For Std Cell
  ![Screenshot from 2024-05-17 04-57-06](https://github.com/sumanthdasari97/RISC-V-WORKSHOP-VSD/assets/161044842/dc55bbd2-d85d-492e-9d80-6a93d825d6f0)
+ # ngspice
+![Screenshot from 2024-05-20 10-42-56](https://github.com/sumanthdasari97/RISC-V-WORKSHOP-VSD/assets/161044842/a9131ec6-3651-4714-9d8c-59afbc97aa09)
+# Output vs time 
+![Screenshot from 2024-05-20 10-45-05](https://github.com/sumanthdasari97/RISC-V-WORKSHOP-VSD/assets/161044842/7618088d-d727-41dc-93cb-ce2515624175)
+
+
+
+
+
 
 Editing the Grid to match the Track Pitches 
 ![Screenshot from 2024-05-20 04-52-26](https://github.com/sumanthdasari97/RISC-V-WORKSHOP-VSD/assets/161044842/a1c75f40-452b-4258-8ead-7fff978aa666)
 
 # Writing out the LEF file 
 ![Screenshot from 2024-05-20 05-01-11](https://github.com/sumanthdasari97/RISC-V-WORKSHOP-VSD/assets/161044842/f7302f52-393b-4021-9cc0-01ed896eaf60)
+
+# Merging custom LEF to openlane flow
+![Screenshot from 2024-05-20 05-56-49](https://github.com/sumanthdasari97/RISC-V-WORKSHOP-VSD/assets/161044842/250cd8bc-a2a1-4ff8-bad1-db7571765599)
+# Our Standard cells in the netlist 
+![Screenshot from 2024-05-20 09-50-42](https://github.com/sumanthdasari97/RISC-V-WORKSHOP-VSD/assets/161044842/9d458513-eac0-424b-9802-ef3f76ebec03)
+
+
+
 
 
 
